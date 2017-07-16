@@ -1,10 +1,9 @@
 {
     "manifest_version" : 2,
-
     "name" : "Alphabetab",
-    "description" : "Sort and kill tabs.",
+    "short_name" : "Alphabetab",
+    "description" : "Sorts tabs by URL, title, or audible state. Kills tabs playing audio.",
     "version" : "0.1.0",
-
     "browser_action" : {
         "default_title" : "Alphabetab",
         "default_icon" : "icon.png",
